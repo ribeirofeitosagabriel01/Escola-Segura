@@ -1,0 +1,6 @@
+{
+  "name": "Escola Segura - Sistema Inteligente Contra Bullying",
+  "description": "Plataforma escolar inteligente para denúncias anônimas de bullying, triagem pedagógica automatizada, apoio emocional e painel de gestão para coordenação escolar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
